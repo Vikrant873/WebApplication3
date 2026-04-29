@@ -18,7 +18,7 @@ namespace WebApplication3.Controllers
       _logger = logger;
     }
 
-    
+    // This is get method for whether forcast
     // This is get method for whether forcast
     [HttpGet(Name = "GetWeatherForecast")]
     public IEnumerable<WeatherForecast> Get()
