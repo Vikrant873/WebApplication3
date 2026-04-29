@@ -19,6 +19,14 @@ namespace WebApplication3.Controllers
     }
 
     // This is get method for whether forcast
+    // This is get method for whether forcast
+    // This is get method for whether forcast
+    // This is get method for whether forcast
+    // This is get method for whether forcast
+    // This is get method for whether forcast
+    // This is get method for whether forcast
+    // This is get method for whether forcast
+    // This is get method for whether forcast
     [HttpGet(Name = "GetWeatherForecast")]
     public IEnumerable<WeatherForecast> Get()
     {
