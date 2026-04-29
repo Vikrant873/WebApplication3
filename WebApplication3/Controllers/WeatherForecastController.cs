@@ -18,10 +18,7 @@ namespace WebApplication3.Controllers
       _logger = logger;
     }
 
-<<<<<<< HEAD
-    
-=======
->>>>>>> parent of 7ec3970 (Now we have many comment)
+
     // This is get method for whether forcast
     [HttpGet(Name = "GetWeatherForecast")]
     public IEnumerable<WeatherForecast> Get()
